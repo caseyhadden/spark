@@ -1,0 +1,5 @@
+database:
+    driverClass: org.h2.Driver
+    user: spark
+    password: pass
+    url: jdbc:h2:target/sparks
