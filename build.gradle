@@ -1,0 +1,10 @@
+subprojects {
+    apply plugin: 'java'
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        compile 'com.yammer.dropwizard:dropwizard-core:0.5.1'
+    }
+}
+

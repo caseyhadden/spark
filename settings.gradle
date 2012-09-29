@@ -1,0 +1,1 @@
+include 'spark-api', 'spark-client', 'spark-service'

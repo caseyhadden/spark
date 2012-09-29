@@ -10,18 +10,6 @@
     <artifactId>spark-client</artifactId>
     <packaging>jar</packaging>
 
-    <dependencies>
-        <dependency>
-            <groupId>com.sun.jersey</groupId>
-            <artifactId>jersey-client</artifactId>
-            <version>1.13</version>
-        </dependency>
-        <dependency>
-            <groupId>com.caseyhadden</groupId>
-            <artifactId>spark-api</artifactId>
-            <version>${project.version}</version>
-        </dependency>
-    </dependencies>
 </project>
 
 
