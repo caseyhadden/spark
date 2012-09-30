@@ -22,3 +22,5 @@ jar {
         attributes 'Main-Class': 'com.caseyhadden.spark.SparkService'
     }
 }
+
+build.dependsOn(oneJar)
